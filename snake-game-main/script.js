@@ -68,7 +68,7 @@ let snake = {
 };
 
 // Initialize the apple's position
-let apple = { x: 320, y: 320 };
+let apple = { x: getRandomInt(0, 25) * grid, y: getRandomInt(0, 25) * grid };
 
 // Fetch the high score when the game starts
 getHighScore();
