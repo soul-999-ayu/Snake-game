@@ -6,7 +6,7 @@
 * Made changes to snake and background.
 
 ## Screenshot:
-![Screenshot (122)](https://github.com/soul-999-ayu/Snake-game/assets/91123494/bd30165f-93f1-427e-ad96-4e6e06bfaebc)
+![Screenshot (124)](https://github.com/soul-999-ayu/Snake-game/assets/91123494/45e72841-3cea-4473-83c4-18ef17e9227d)
 
 ## Future plans:
 * Will add buttons to make it playable in Android and IOS.
